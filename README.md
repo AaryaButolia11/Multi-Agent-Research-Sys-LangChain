@@ -73,6 +73,12 @@ User Input (Topic)
 
 ---
 
+## Workflow
+
+<img width="1405" height="570" alt="image" src="https://github.com/user-attachments/assets/f304bbab-9b23-4526-ba04-182f7fec1229" />
+
+---
+
 ## Prerequisites
 
 - Python 3.9+
